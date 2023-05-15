@@ -1,0 +1,129 @@
+.head{
+    background-color: yellow;
+    padding: 2px;
+}
+.edu{
+    background-color: yellow;
+    padding: 1%;
+}
+.cla{
+    text-decoration: none;
+    color: black;
+    margin: 5%;
+    
+}
+
+.size{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 1.5%;
+    text-align: center;
+    
+}
+.color{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 1.5%;
+    text-align: center;
+}
+.king{
+    background-color: yellow;
+    color: green;
+}
+.queen{
+    background-color: green;
+    color: yellow;
+}
+.pad{
+    text-align: center;
+    padding-bottom: 1%;
+    color: black;
+}
+.sec{
+    padding: 5%;
+}
+.hitam{
+    font-weight: bold;
+    color: black;
+    
+    width: 100%;
+}
+.Courses{
+    background-color: antiquewhite;
+    padding: 2%;
+}
+.and{
+    text-align: center;
+}
+.img{
+    width: 40%;
+}
+.car{
+    padding: 5px;
+}
+.cl{
+    padding: 1%;
+    margin: 3%;
+}
+.con{
+    padding-top: 4%;
+}
+.vedio{
+    padding: 3%;
+}
+.number{
+    background-color:gray;
+    padding: 5%;
+}
+.col{
+    color: white;
+}
+.ve{
+    background-color: green;
+    padding: 3%;
+}
+.pa{
+    color: white;
+    font-weight: 100px;
+    line-height: 35px;
+    
+    
+}
+.hi{
+    margin-top: 25px;
+    margin-left: 0px;
+    line-height: 35px;
+}
+.ach{
+    padding: 5%;
+}
+.achi{
+    text-align: justify;
+    line-height: 35px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.srcl{
+    padding-top: 2%;
+}
+.srcl img{
+    width: 75%;
+    margin-left: 100px;
+}
+.dep{
+    background-color: black;
+    padding: 5%;
+}
+.dep h2,a{
+    color: white;
+    text-decoration: none;
+    line-height: 45px;
+}
+.dep img{
+    padding: 2%;
+}
+.foot{
+    padding: 1%;
+    background-color:cornsilk;
+}
+.foot a{
+    color: black;
+}
